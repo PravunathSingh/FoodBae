@@ -2,6 +2,8 @@
 
 Search and generate random meals from the [themealdb.com](www.themealdb.com) API
 
+The App can be found live at [foodbae.netlify.app](www.foodbae.netlify.app)
+
 ## Project Specifications
 
 - Display UI with form to search and button to generate
